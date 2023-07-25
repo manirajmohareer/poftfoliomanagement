@@ -1,0 +1,1 @@
+Commit from my machine to git repository - Sample. 
